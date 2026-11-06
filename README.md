@@ -43,6 +43,14 @@ Clique nos botões de download direto para baixar os pacotes `.apkg` oficiais pr
 
 ---
 
+## Demonstração no Aplicativo Móvel (AnkiDroid / iOS)
+
+<p align="center">
+  <img src="docs/assets/mobile_preview.png" alt="Demonstração no Smartphone" width="760">
+</p>
+
+---
+
 ## O Ecossistema Anki
 
 Para utilizar os baralhos, você precisará do **Anki** instalado em seu computador ou smartphone. O Anki é gratuito e de código aberto:
