@@ -46,7 +46,7 @@ Clique nos botões de download direto para baixar os pacotes `.apkg` oficiais pr
 ## Demonstração no Aplicativo Móvel (AnkiDroid / iOS)
 
 <p align="center">
-  <img src="docs/assets/mobile_preview.png" alt="Demonstração no Smartphone" width="760">
+  <img src="docs/assets/mobile_showcase.png" alt="Demonstração no Smartphone" width="760">
 </p>
 
 ---
