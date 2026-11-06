@@ -1,54 +1,82 @@
-# English for Engineers: Anki Decks & Survival Kit
+<p align="center">
+  <img src="docs/assets/logo.svg" alt="Anki + Engineers Logo" width="640">
+</p>
 
-Coleção de baralhos para Anki com áudios neurais de estúdio, vocabulário técnico contextualizado e guia prático para desenvolvedores de software atuando em empresas globais e equipes remotas multiculturais.
+<p align="center">
+  <b>Inglês Técnico &amp; Repetição Espaçada para Engenheiros de Software</b><br>
+  <i>Baralhos prontos com áudio neural de estúdio, situações reais de engenharia corporativa e otimização FSRS.</i>
+</p>
+
+<p align="center">
+  <a href="https://apps.ankiweb.net/"><img src="https://img.shields.io/badge/Anki-24%2B%20Compatible-blue?style=flat-square" alt="Anki Compatible"></a>
+  <a href="https://docs.ankiweb.net/deck-options.html#fsrs"><img src="https://img.shields.io/badge/Algorithm-FSRS%20Ready-success?style=flat-square" alt="FSRS Ready"></a>
+  <a href="#catálogo-de-baralhos"><img src="https://img.shields.io/badge/Audio-Neural%20Edge%20TTS-purple?style=flat-square" alt="Neural TTS"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License MIT"></a>
+</p>
 
 ---
 
 ## Visão Geral
 
-Este repositório foi criado para solucionar um desafio comum de engenheiros de software brasileiros: o domínio da linguagem técnica escrita e da lógica de programação versus o travamento na comunicação verbal em reuniões rápidas (Daily Standups, 1-on-1s, Code Reviews, refinamentos técnicos e negociações de débito técnico).
+Este repositório foi criado para solucionar um desafio recorrente de desenvolvedores brasileiros em empresas multinacionais: dominar a escrita de código e a documentação técnica em inglês, mas travar na comunicação oral em chamadas síncronas (Daily Standups, 1-on-1s, Code Reviews, reuniões de System Design e negociações de débito técnico).
 
-### Destaques dos Baralhos
-* **Áudios Neurais Embutidos:** 100% dos cartões possuem arquivos `.mp3` sintetizados com vozes de inteligência artificial de alta fidelidade (Microsoft Edge Neural: Guy, Jenny, Eric e Aria).
-* **Fórmula Dupla (Formal + Casual):** Treino da fala corporativa para reuniões e da variação coloquial usada em canais de Slack e huddles rápidos.
-* **Tema AMOLED True Black:** Layout com `#000000` absoluto para economia de bateria e contraste ideal em telas OLED/AMOLED de smartphones e desktop.
-* **Otimizado para FSRS:** Estruturado para o algoritmo moderno de repetição espaçada do Anki.
+### Recursos Principais
+* **Áudios Neurais Embutidos:** 100% dos cartões contêm arquivos `.mp3` gerados com vozes de inteligência artificial de alta fidelidade (Microsoft Edge Neural: Guy, Jenny, Eric e Aria).
+* **Fórmula Dupla (Formal + Casual):** Treine a fala corporativa estruturada e a variação coloquial usada em canais do Slack e reuniões rápidas.
+* **Tema AMOLED True Black:** Estilizado em `#000000` absoluto para alto contraste e economia de bateria em telas OLED/AMOLED de celulares e computadores.
+* **Otimização FSRS:** Configurado para o algoritmo moderno de repetição espaçada do Anki.
 
 ---
 
 ## Catálogo de Baralhos
 
-Todos os pacotes prontos para importação estão disponíveis no diretório [`decks/`](decks/).
+Clique nos botões de download direto para baixar os pacotes `.apkg` oficiais prontos para importação:
 
-| Baralho | Total de Cards | Áudios | Foco Principal | Arquivo |
+| Baralho | Total de Cards | Áudios | Foco Principal | Download Direto (RAW) |
 | :--- | :--- | :--- | :--- | :--- |
-| **English - Tech & Engineering** | 86 cards | 172 áudios | Dailies, Code Review, Arquitetura, System Design, Pushback sênior, Gestão de crises | [`English_Tech_and_Engineering.apkg`](decks/English_Tech_and_Engineering.apkg) |
-| **English - Phrasal Verbs de TI** | 30 cards | 30 áudios | Verbos compostos essenciais: *spin up*, *tear down*, *roll out*, *chime in*, *flesh out*, *drill down* | [`English_Phrasal_Verbs_TI.apkg`](decks/English_Phrasal_Verbs_TI.apkg) |
-| **English - Small Talk Corporativo** | 30 cards | 60 áudios | Quebra-gelo nos 3 minutos antes da reunião, papo de segunda e sexta, 1-on-1s, fusos horários | [`English_Small_Talk_Corporativo.apkg`](decks/English_Small_Talk_Corporativo.apkg) |
-| **English - Connected Speech & Reductions** | 30 cards | 30 áudios | Treino auditivo (*Ear Training*): decodificar a fala rápida de nativos (*Whaddya*, *Gonna hafta*, *Coulda*) | [`English_Connected_Speech.apkg`](decks/English_Connected_Speech.apkg) |
+| **English - Tech & Engineering** | 86 cards | 172 áudios | Dailies, Code Review, Arquitetura, System Design, Pushback e Gestão de Incidentes | [📥 Baixar .apkg](https://github.com/JonathanAJ/english-for-engineers/raw/main/decks/English_Tech_and_Engineering.apkg) |
+| **English - Phrasal Verbs de TI** | 30 cards | 30 áudios | Verbos compostos essenciais: *spin up*, *tear down*, *roll out*, *chime in*, *flesh out*, *drill down* | [📥 Baixar .apkg](https://github.com/JonathanAJ/english-for-engineers/raw/main/decks/English_Phrasal_Verbs_TI.apkg) |
+| **English - Small Talk Corporativo** | 30 cards | 60 áudios | Quebra-gelo nos 3 minutos antes da reunião, papo de segunda e sexta, 1-on-1s e fusos horários | [📥 Baixar .apkg](https://github.com/JonathanAJ/english-for-engineers/raw/main/decks/English_Small_Talk_Corporativo.apkg) |
+| **English - Connected Speech & Reductions** | 30 cards | 30 áudios | Treino auditivo (*Ear Training*): decodificar a fala rápida de nativos (*Whaddya*, *Gonna hafta*, *Coulda*) | [📥 Baixar .apkg](https://github.com/JonathanAJ/english-for-engineers/raw/main/decks/English_Connected_Speech.apkg) |
+
+> Todos os pacotes `.apkg` já possuem os arquivos de áudio embutidos internamente. Ao abrir o arquivo, o Anki descompacta a mídia de forma automática.
 
 ---
 
-## Como Instalar e Usar (1 Minuto)
+## O Ecossistema Anki
 
-1. Baixe o arquivo `.apkg` desejado da pasta [`decks/`](decks/).
-2. Abra o Anki Desktop ou o aplicativo móvel (AnkiDroid no Android ou AnkiMobile no iOS).
-3. Dê duplo clique no arquivo `.apkg` (ou use o menu **Arquivo -> Importar**).
-4. O baralho será importado com todos os áudios e estilizações aplicados automaticamente.
+Para utilizar os baralhos, você precisará do **Anki** instalado em seu computador ou smartphone. O Anki é gratuito e de código aberto:
+
+| Plataforma | Aplicativo | Link Oficial |
+| :--- | :--- | :--- |
+| **Desktop (Linux / macOS / Windows)** | Anki Desktop | [apps.ankiweb.net](https://apps.ankiweb.net/) |
+| **Android** | AnkiDroid | [Google Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
+| **iOS (iPhone / iPad)** | AnkiMobile | [Apple App Store](https://apps.apple.com/app/ankimobile-flashcards/id373493387) |
+| **Nuvem / Web** | AnkiWeb | [ankiweb.net](https://ankiweb.net/) *(Sincronização gratuita)* |
+| **Documentação Oficial** | Manual do Anki | [docs.ankiweb.net](https://docs.ankiweb.net/) |
+
+---
+
+## Como Instalar e Configurar (1 Minuto)
+
+1. Baixe o baralho desejado na tabela acima através do link **[📥 Baixar .apkg]**.
+2. Abra o Anki e dê duplo clique no arquivo baixado (ou use o menu **Arquivo -> Importar** / tecla `Ctrl + I`).
+3. O baralho será importado com todos os áudios e estilizações visuais aplicadas.
 
 ### Configurações Recomendadas no Anki
-* **Algoritmo FSRS:** Nas opções do baralho, ative o FSRS e defina a retenção desejada entre `0.85` e `0.90`.
-* **Meta Diária:** Configure entre `5` e `10` novos cards por dia para manter a consistência sem sobrecarga de revisões.
+* **Algoritmo FSRS:** Nas opções do baralho (ícone de engrenagem ao lado do nome do baralho -> *Opções*), ative o **FSRS** e defina a retenção desejada entre `0.85` e `0.90`.
+* **Meta Diária:** Mantenha entre `5` e `10` novos cards por dia. A consistência diária é mais eficiente do que grandes volumes esporádicos.
+* **Tema Escuro no Celular:** No AnkiDroid, acesse *Configurações -> Aparência -> Tema Escuro* e selecione **Preto Puro (AMOLED)** para aproveitar o fundo `#000000`.
 
 ---
 
 ## Metodologia de Estudo Diário (15 Minutos)
 
-Para desenvolver fala natural e automática sem tradução mental:
+Para desenvolver fala natural sem tradução mental:
 
 1. **Active Recall + Vocal Shadowing (10 minutos):**
-   * Ao visualizar o cenário na frente do cartão, tente formular a resposta em voz alta antes de revelar o verso.
-   * Ao virar, repita a frase em voz alta acompanhando o áudio, prestando atenção no ritmo, na ênfase das palavras-chave e nas pausas.
+   * Ao visualizar o cenário na frente do cartão, tente formular a resposta em voz alta antes de virar.
+   * Ao virar, escute o áudio e repita a frase em voz alta com a mesma cadência, ritmo e entonação.
 2. **Simulação Pré-Daily (5 minutos):**
    * Antes da sua Daily real, pegue os tickets do Jira do seu dia e monte mentalmente seu reporte em 3 frases usando os blocos aprendidos:
      * *Yesterday I wrapped up...*
@@ -83,9 +111,9 @@ Frases corporativas de alto impacto para consulta imediata durante o expediente:
 
 ## Estrutura do Repositório
 
-* `decks/`: Arquivos `.apkg` finais compilados com áudios embutidos.
+* `decks/`: Arquivos `.apkg` oficiais compilados com áudios embutidos.
 * `src/tsv/`: Arquivos de texto tabulados com as perguntas, respostas e marcações de som.
-* `src/scripts/`: Script Python (`build_decks.py`) para gerar os áudios neurais via `edge-tts` e montar os pacotes `.apkg`.
+* `docs/assets/`: Ativos visuais do repositório (logotipo vetorial SVG).
 
 ---
 

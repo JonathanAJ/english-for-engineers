@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" width="860" height="220">
+  <defs>
+    <style>
+      .title-anki { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 54px; fill: #0284c7; }
+      .title-plus { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 50px; fill: #f97316; }
+      .title-eng { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 54px; fill: #0f172a; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 19px; fill: #475569; letter-spacing: 0.5px; }
+      .card-bg { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; }
+      .card-front { fill: #ffffff; stroke: #0284c7; stroke-width: 2.5; }
+      .bracket { fill: #0284c7; font-family: monospace; font-weight: bold; font-size: 38px; }
+      .star { fill: #f59e0b; }
+      .soundwave { stroke: #0ea5e9; stroke-width: 3; stroke-linecap: round; }
+
+      @media (prefers-color-scheme: dark) {
+        .title-anki { fill: #38bdf8; }
+        .title-plus { fill: #fb923c; }
+        .title-eng { fill: #f8fafc; }
+        .subtitle { fill: #94a3b8; }
+        .card-bg { fill: #090d16; stroke: #1e293b; }
+        .card-front { fill: #0f172a; stroke: #38bdf8; }
+        .bracket { fill: #38bdf8; }
+        .star { fill: #fbbf24; }
+        .soundwave { stroke: #38bdf8; }
+      }
+    </style>
+  </defs>
+
+  <!-- ICON SECTION (LEFT) -->
+  <g transform="translate(45, 30)">
+    <!-- Back flashcard (tilted) -->
+    <rect class="card-bg" x="30" y="8" width="105" height="135" rx="14" transform="rotate(10 82 75)" />
+    
+    <!-- Front flashcard (main) -->
+    <rect class="card-front" x="12" y="16" width="105" height="135" rx="14" />
+    
+    <!-- Code Brackets { } -->
+    <text x="32" y="78" class="bracket">{</text>
+    <text x="76" y="78" class="bracket">}</text>
+    
+    <!-- Anki Center Star -->
+    <path class="star" transform="translate(64, 66) scale(0.9)" d="M0 -15 L4.2 -4.5 L15.7 -3.5 L7.2 4.2 L9.7 15.5 L0 9.7 L-9.7 15.5 L-7.2 4.2 L-15.7 -3.5 L-4.2 -4.5 Z" />
+    
+    <!-- Sound waves underneath (Audio symbol) -->
+    <line class="soundwave" x1="42" y1="120" x2="42" y2="128" />
+    <line class="soundwave" x1="52" y1="114" x2="52" y2="134" />
+    <line class="soundwave" x1="64" y1="108" x2="64" y2="140" />
+    <line class="soundwave" x1="76" y1="114" x2="76" y2="134" />
+    <line class="soundwave" x1="86" y1="120" x2="86" y2="128" />
+  </g>
+
+  <!-- TEXT SECTION (RIGHT) -->
+  <g transform="translate(230, 95)">
+    <!-- Header: Anki + Engineers -->
+    <text x="0" y="0">
+      <tspan class="title-anki">Anki</tspan>
+      <tspan class="title-plus"> + </tspan>
+      <tspan class="title-eng">Engineers</tspan>
+    </text>
+    
+    <!-- Subtitle: Value proposition -->
+    <text x="2" y="44" class="subtitle">Technical English &amp; Spaced Repetition for Global Teams</text>
+  </g>
+</svg>
